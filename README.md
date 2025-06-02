@@ -1,16 +1,4 @@
-//<h1 align="center">📰 WhatsApp News Bot</h1>
 
-<p align="center"><strong>Created by Seenu</strong><br>
-B.Tech Computer Science Engineering Student<br>
-</p>
-
-<hr>
-
-<h2>🙋‍♂️ About Me</h2>
-
-<p>Hi, I’m <strong>Seenu</strong>, a Computer Science Engineering student at <strong>Amity University</strong>. I built this project to learn more about APIs, automation, and how to integrate messaging platforms with real-time data. I love working with Python and exploring full-stack development.</p>
-
-<hr>
 
 <h2>📌 Project Overview</h2>
 
