@@ -2,7 +2,6 @@
 
 <p align="center"><strong>Created by Seenu</strong><br>
 B.Tech Computer Science Engineering Student<br>
-<strong>Amity University</strong>
 </p>
 
 <hr>
