@@ -1,4 +1,4 @@
-<h1 align="center">📰 WhatsApp News Bot</h1>
+//<h1 align="center">📰 WhatsApp News Bot</h1>
 
 <p align="center"><strong>Created by Seenu</strong><br>
 B.Tech Computer Science Engineering Student<br>
